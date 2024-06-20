@@ -219,7 +219,7 @@ const collections = [
       "Heriyanto",
     ],
     logo: "./images/logo/purple-project.webp",
-    description: "The perfect one will be come soon.\n\"As different levels, who will laugh at the end\"",
+    description: "The perfect one will be come soon. \"As different levels, who will laugh at the end\".",
     view: "https://heyca-beta.netlify.app",
     github: "https://github.com/herya17/heyca-pwa-resource",
     images: [
