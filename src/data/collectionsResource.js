@@ -53,7 +53,7 @@ const collections = [
     logo: "./images/logo/herya.webp",
     description: "Herya Pro is my entire portfolio collection, Herya Pro is built using React by implementing clean and reusable code and ensuring responsive web design using mobile first approach.",
     view: "https://heryapro.netlify.app",
-    github: "https://github.com/hewrya/herya-projects-resource",
+    github: "https://github.com/herya17/herya-project-resource",
     images: [],
   },
   {
@@ -208,6 +208,22 @@ const collections = [
         { id: 0, url: "./images/ui/dsoccer-1.webp", },
         { id: 1, url: "./images/ui/dsoccer-2.webp", },
         { id: 2, url: "./images/ui/dsoccer-3.webp", },
+    ],
+  },
+  {
+    id: 12,
+    isComplete: true,
+    isNew: true,
+    name: "Xpurple Project",
+    author: [ 
+      "Heriyanto",
+    ],
+    logo: "./images/logo/purple-project.webp",
+    description: "The perfect one will be come soon.\n\"As different levels, who will laugh at the end\"",
+    view: "https://heyca-beta.netlify.app",
+    github: "https://github.com/herya17/heyca-pwa-resource",
+    images: [
+      { id: 0, url: "./images/ui/purple-project.webp", },
     ],
   },
 ];
